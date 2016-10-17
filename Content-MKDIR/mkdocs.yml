@@ -1,4 +1,4 @@
-site_name: Kitsui CMS Documentation
-site_description: Official documentation including setup guide for the Kitsui CMS.
-site_dir: ../Kitsui.github.io/docs
+site_name: Auburn Color Research
+site_description: Auburn Colour Research Website
+site_dir: ../Website
 theme: mkdocs
