@@ -2,108 +2,213 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to the Kitsui documentation\n\n\nGetting Started\n\n\n\n\n\n\nInstalling Kitsui CMS\n\n\n\n\nInstalling\n\n\nRemoving\n\n\nUpdating\n\n\n\n\n\n\n\n\nGetting your website Live with Cloud Front\n\n\n\n\n\n\nUsers\n\n\n\n\n\n\nRoles\n\n\n\n\n\n\nBlogs\n\n\n\n\n\n\nPages\n\n\n\n\n\n\nSite Settings", 
+            "text": "Contrast Readability Research\n\n\nIntroduction", 
             "title": "Home"
         }, 
         {
-            "location": "/#welcome-to-the-kitsui-documentation", 
+            "location": "/#contrast-readability-research", 
             "text": "", 
-            "title": "Welcome to the Kitsui documentation"
+            "title": "Contrast Readability Research"
         }, 
         {
-            "location": "/#getting-started", 
-            "text": "Installing Kitsui CMS   Installing  Removing  Updating     Getting your website Live with Cloud Front    Users    Roles    Blogs    Pages    Site Settings", 
-            "title": "Getting Started"
-        }, 
-        {
-            "location": "/colours/", 
-            "text": "Welcome to the Kitsui documentation\n\n\nGetting Started\n\n\n\n\n\n\nInstalling Kitsui CMS\n\n\n\n\nInstalling\n\n\nRemoving\n\n\nUpdating\n\n\n\n\n\n\n\n\nGetting your website Live with Cloud Front\n\n\n\n\n\n\nUsers\n\n\n\n\n\n\nRoles\n\n\n\n\n\n\nBlogs\n\n\n\n\n\n\nPages\n\n\n\n\n\n\nSite Settings", 
-            "title": "Colours"
-        }, 
-        {
-            "location": "/colours/#welcome-to-the-kitsui-documentation", 
+            "location": "/#introduction", 
             "text": "", 
-            "title": "Welcome to the Kitsui documentation"
+            "title": "Introduction"
         }, 
         {
-            "location": "/colours/#getting-started", 
-            "text": "Installing Kitsui CMS   Installing  Removing  Updating     Getting your website Live with Cloud Front    Users    Roles    Blogs    Pages    Site Settings", 
-            "title": "Getting Started"
+            "location": "/reflections/", 
+            "text": "Reflections", 
+            "title": "Reflections"
         }, 
         {
-            "location": "/reflection/", 
-            "text": "Welcome to the Kitsui documentation\n\n\nGetting Started\n\n\n\n\n\n\nInstalling Kitsui CMS\n\n\n\n\nInstalling\n\n\nRemoving\n\n\nUpdating\n\n\n\n\n\n\n\n\nGetting your website Live with Cloud Front\n\n\n\n\n\n\nUsers\n\n\n\n\n\n\nRoles\n\n\n\n\n\n\nBlogs\n\n\n\n\n\n\nPages\n\n\n\n\n\n\nSite Settings", 
-            "title": "Reflection"
-        }, 
-        {
-            "location": "/reflection/#welcome-to-the-kitsui-documentation", 
+            "location": "/reflections/#reflections", 
             "text": "", 
-            "title": "Welcome to the Kitsui documentation"
-        }, 
-        {
-            "location": "/reflection/#getting-started", 
-            "text": "Installing Kitsui CMS   Installing  Removing  Updating     Getting your website Live with Cloud Front    Users    Roles    Blogs    Pages    Site Settings", 
-            "title": "Getting Started"
+            "title": "Reflections"
         }, 
         {
             "location": "/research/", 
-            "text": "Welcome to the Kitsui documentation\n\n\nGetting Started\n\n\n\n\n\n\nInstalling Kitsui CMS\n\n\n\n\nInstalling\n\n\nRemoving\n\n\nUpdating\n\n\n\n\n\n\n\n\nGetting your website Live with Cloud Front\n\n\n\n\n\n\nUsers\n\n\n\n\n\n\nRoles\n\n\n\n\n\n\nBlogs\n\n\n\n\n\n\nPages\n\n\n\n\n\n\nSite Settings", 
+            "text": "Research\n\n\nVision is the ability that allows us to see and understand the world, it plays a major role with receiving and sending \ninformation in our society today. Vision helps us to distinguish and differentiate objects in our foveal vision, this helps \nus creates a link of the object and information known about it. \n\n\nOur eyes are the instruments to facilitate vision, by taking in light rays and bending them\nThe eye is able to focus on objects in various lighting conditions. When there is a great deal of light shone into the eye, \nthe iris constrains the size of the pupil. This reduces the amount of light and adjusts its focus with its reshaping lens, \nthis is also true for the opposite. \n\n\nWith that being stated a research paper on the legibility of display units through contrast reversal found that people \nwere more accurate at reading dark text on a light background. In fact, black text on a white background was found to \nbe 26% more accurate than reading white text on a black background (Pace \n Cavonius 1980). This research article seemed \nto infer that there should be a significant difference in readability between black text on white versus white text on \nblack background.\n\n\nWhite text on a black background is not considered to be harder to read in paragraphs compared black text on a white background. \nThis is the case since the white characters reflected light is scattered amongst its neighboring letters and words resulting in a \nless distinct character (Anthony 2011)(Oddie 2014). This then affects the readability of a body of text negatively as the reader \nwould have a harder time identifying the letters, words, and phrases. This is the opposite with black text on a white background \nas the black text absorbs the light, thus being easier to read.\n\n\nReferences\n\n\nA. (2011, March 28). When to Use White Text on a Dark Background - UX Movement. Retrieved from http://uxmovement.com/content/when-to-use-white-text-on-a-dark-background/\n\n\nOddie, T. (2014, October). Why light text on a dark background is a bad idea. Retrieved from https://blog.tatham.oddie.com.au/2008/10/13/why-light-text-on-dark-background-is-a-bad-idea/\n\n\nPace, B. J., \n Cavonius, C. R. (1980). Color combinations and contrast reversals on visual display units. PsycEXTRA Dataset. doi:10.1037/e574202012-008", 
             "title": "Research"
         }, 
         {
-            "location": "/research/#welcome-to-the-kitsui-documentation", 
-            "text": "", 
-            "title": "Welcome to the Kitsui documentation"
+            "location": "/research/#research", 
+            "text": "Vision is the ability that allows us to see and understand the world, it plays a major role with receiving and sending \ninformation in our society today. Vision helps us to distinguish and differentiate objects in our foveal vision, this helps \nus creates a link of the object and information known about it.   Our eyes are the instruments to facilitate vision, by taking in light rays and bending them\nThe eye is able to focus on objects in various lighting conditions. When there is a great deal of light shone into the eye, \nthe iris constrains the size of the pupil. This reduces the amount of light and adjusts its focus with its reshaping lens, \nthis is also true for the opposite.   With that being stated a research paper on the legibility of display units through contrast reversal found that people \nwere more accurate at reading dark text on a light background. In fact, black text on a white background was found to \nbe 26% more accurate than reading white text on a black background (Pace   Cavonius 1980). This research article seemed \nto infer that there should be a significant difference in readability between black text on white versus white text on \nblack background.  White text on a black background is not considered to be harder to read in paragraphs compared black text on a white background. \nThis is the case since the white characters reflected light is scattered amongst its neighboring letters and words resulting in a \nless distinct character (Anthony 2011)(Oddie 2014). This then affects the readability of a body of text negatively as the reader \nwould have a harder time identifying the letters, words, and phrases. This is the opposite with black text on a white background \nas the black text absorbs the light, thus being easier to read.", 
+            "title": "Research"
         }, 
         {
-            "location": "/research/#getting-started", 
-            "text": "Installing Kitsui CMS   Installing  Removing  Updating     Getting your website Live with Cloud Front    Users    Roles    Blogs    Pages    Site Settings", 
-            "title": "Getting Started"
+            "location": "/research/#references", 
+            "text": "A. (2011, March 28). When to Use White Text on a Dark Background - UX Movement. Retrieved from http://uxmovement.com/content/when-to-use-white-text-on-a-dark-background/  Oddie, T. (2014, October). Why light text on a dark background is a bad idea. Retrieved from https://blog.tatham.oddie.com.au/2008/10/13/why-light-text-on-dark-background-is-a-bad-idea/  Pace, B. J.,   Cavonius, C. R. (1980). Color combinations and contrast reversals on visual display units. PsycEXTRA Dataset. doi:10.1037/e574202012-008", 
+            "title": "References"
         }, 
         {
             "location": "/test-method/", 
-            "text": "Welcome to the Kitsui documentation\n\n\nGetting Started\n\n\n\n\n\n\nInstalling Kitsui CMS\n\n\n\n\nInstalling\n\n\nRemoving\n\n\nUpdating\n\n\n\n\n\n\n\n\nGetting your website Live with Cloud Front\n\n\n\n\n\n\nUsers\n\n\n\n\n\n\nRoles\n\n\n\n\n\n\nBlogs\n\n\n\n\n\n\nPages\n\n\n\n\n\n\nSite Settings", 
+            "text": "Test Method", 
             "title": "Test method"
         }, 
         {
-            "location": "/test-method/#welcome-to-the-kitsui-documentation", 
+            "location": "/test-method/#test-method", 
             "text": "", 
-            "title": "Welcome to the Kitsui documentation"
-        }, 
-        {
-            "location": "/test-method/#getting-started", 
-            "text": "Installing Kitsui CMS   Installing  Removing  Updating     Getting your website Live with Cloud Front    Users    Roles    Blogs    Pages    Site Settings", 
-            "title": "Getting Started"
+            "title": "Test Method"
         }, 
         {
             "location": "/test-result-analysis/", 
-            "text": "Welcome to the Kitsui documentation\n\n\nGetting Started\n\n\n\n\n\n\nInstalling Kitsui CMS\n\n\n\n\nInstalling\n\n\nRemoving\n\n\nUpdating\n\n\n\n\n\n\n\n\nGetting your website Live with Cloud Front\n\n\n\n\n\n\nUsers\n\n\n\n\n\n\nRoles\n\n\n\n\n\n\nBlogs\n\n\n\n\n\n\nPages\n\n\n\n\n\n\nSite Settings", 
+            "text": "Test Result and Analysis\n\n\nDescriptive summary of data\n\n\nfigure 1\n\n\n\n\nBox-plot of reverse contrasts and their data spread for time/duration\n\n\nfigure 2\n\n\n\n\nHistogram to show entire dataset distribution for time/duration\n\n\nfigure 3.\n\n\n  \n\n\nStage 1 Summary\n\n\nA first look at the data immediately tells us that there is some \ndifference in the spread for scanning times between Black text on \nwhite background (B/W)  and \u201cWhite text on black background\u201d (W/B). \nIn figure 1 and 2 we can see that on averages people did better with \nB/W but whether this is a statistically significant and not random \nrequires further testing. \nThe type of test required for the hypothesis \u201cIs there a significant \ndifference in scan-reading time between articles with B/W and W/B \ncontrast?\u201d is a One-way ANOVA or single factor ANOVA test. However \naccording to SPSS ANOVA guidelines  there is an assumption that\ndata needs to be approximately normally distributed. Looking at \nfigure 3 we can see that the entire dataset is positively skewed \nwhich therefore requires us to conduct a test of normality \n(covered in the next section) to make sure it is normally \ndistributed enough for an ANOVA test. Another assumption for an \nANOVA test is that there are no outliers in the data. According \nto figure 2, there are a few outliers on both datasets. The last \nassumption is the variances of both B/W and W/B being homogenous.\n\n\nData normality testing\n\n\nfigure 4.\n\n\n  \n\n\na. Lilliefors Significance Correction\n\n\nfigure 5.\n\n\n \n\n\nfigure 6.\n\n\n  \n\n\nStage 2 - Summary of normality testing\n\n\nAccording to figure 4 results, the data set is not normally \ndistributed. The sig value is quite a bit under 0.05 which \ntells us to reject the hypothesis that the data is normally \ndistributed. This is further shown by the normal Q-Q plots for \nthe reverse contrasts as the plots are quite a distance from the \nregression lines which indicates the data is not normal. This \nmeans that we cannot conduct an ANOVA test without transforming \nthe data to be normalized in which we will discuss in the next \nsection.  \n\n\nData transformation\n\n\nWe decided that normalizing the entire time variable would fix both \nthe skewness value in the data set as well as the kurtosis value \n(outliers). Using the rank cases facility within SPSS with the \n\u2018Fractional Rank\u2019 option ticked created a new variable which made \nthe highest time/duration at 1.0 and then the rest of the \ntimes/duration ranked. \nThen using this ranked time variable and the idf.normal \nfunction() within \u2018Compute variables\u2019 in \u2018Transform\u2019 drop \ndown to then generate a normalized time variable. Some \ndescriptive statistics for the new normalized data set is \nshown in the next section.  \n\n\nDescriptive statistics of transformed data\n\n\nfigure 7.\n\n\n  \n\n\nfigure 8.\n\n\n  \n\n\nData distribution\n\n\nfigure 9.\n\n\n  \n\n\nData normality testing\n\n\nfigure 10.\n\n\n  \n\n\nfigure 11.\n\n\n  \n\n\nLevenes test of Homogeneity\n\n\nfigure 12.\n\n\n  \n\n\nfigure 13.\n\n\n  \n\n\nStage 3 - Normalizing the data set\n\n\nAs you can see normalizing the data set had the desired effect. According \nto figure 7, the skewness and kurtosis values has been reduced considerably.\nThe outliers issue in the data set have been removed shown in figure 8 \nand figure 9 shows the data in a histogram in which the data set appears\n\nnormally distributed.\nTo confirm this further we conducted a normality test (figure 10, 11 and 13)\n on the normalized variable which shows both B/W and W/B Sig values are way\n over 0.05 which means we can accept the hypothesis that the data set is \n normally distributed. Figures 11 and 13 show that the data is quite close \n to the regression line on the Q-Q plot for both contrast\u2019s which indicates \n the data is normal.\nAnother requirement for ANOVA is variance homogeneity of which we undertook \na Levene test with the data set (figure 12). The test shows that the variances \nbetween both contrasts are indeed homogeneous with a Sig value way over .005. \nThe data is now ready for a one-way ANOVA test which we will compare the means \nfor both B/W and W/B to see whether they are statistically significant.  \n\n\nOne-way ANOVA Test (Single-factor ANOVA\n\n\nfigure 14.\n\n\n\n\n  \n\n\nfigure 16.\n\n\n \n\n\nStage 4 - Discussion of One-way ANOVA results\n\n\nAt first glance we can see the Sig value (p-value) for the One-way ANOVA test \n(figure 14) is below 0.05 which means we can reject the null hypothesis that \nthe differences in the means is not statistically significant. \nIn our study there appears to be a statistically significant difference in \nscan-reading performance between B/W and W/B articles. Further feedback from \nthe students we were sampling found the black and white articles easier to \nsearch through besides Sonic who stated he developed software in IDE with dark \nbackgrounds.\nThis, however does not disprove previous findings in research we used to test \nthis hypothesis. For one our study did not take into account the line at which \nthe target phrase in the articles is situated. A little bit of extra \nexplorative analysis at the data (figure 16)  shows that scan-reading \nperformance lines up almost perfectly with the B/W - and there being decreases \nin W/B. As a result of the random placement of target phrase - the W/B articles \nhad the target phrase situated mostly between 20 - 45. The one discrepancy is \narticle 7 which on average took a lot longer for students to search through \neven though the target phrase was on line 10. The phrase, however, was on \nthe end of line 10 meaning the rest of the phrase was on line 11 which means \nthe entire phrase was only in view by reading each line to line rather than \nscan-reading the document. I may also emphasize that the sample population was \nvery small (6 students). The sample may data may not therefore reflect reality.\nThis shows an error in our experiment design of looking at the one factor \n(contrast) that there could very well be the position factor having a \nconsiderable effect on scan reading speed. We did not take measures to i\nsolate the target phrase position variable and for a larger sample of \nstudents to take the test. Future experiment design around this area of \nresearch would need to take these details into account.", 
             "title": "Test result analysis"
         }, 
         {
-            "location": "/test-result-analysis/#welcome-to-the-kitsui-documentation", 
+            "location": "/test-result-analysis/#test-result-and-analysis", 
             "text": "", 
-            "title": "Welcome to the Kitsui documentation"
+            "title": "Test Result and Analysis"
         }, 
         {
-            "location": "/test-result-analysis/#getting-started", 
-            "text": "Installing Kitsui CMS   Installing  Removing  Updating     Getting your website Live with Cloud Front    Users    Roles    Blogs    Pages    Site Settings", 
-            "title": "Getting Started"
-        }, 
-        {
-            "location": "/testing-and-results/", 
-            "text": "Welcome to the Kitsui documentation\n\n\nGetting Started\n\n\n\n\n\n\nInstalling Kitsui CMS\n\n\n\n\nInstalling\n\n\nRemoving\n\n\nUpdating\n\n\n\n\n\n\n\n\nGetting your website Live with Cloud Front\n\n\n\n\n\n\nUsers\n\n\n\n\n\n\nRoles\n\n\n\n\n\n\nBlogs\n\n\n\n\n\n\nPages\n\n\n\n\n\n\nSite Settings", 
-            "title": "Testing and results"
-        }, 
-        {
-            "location": "/testing-and-results/#welcome-to-the-kitsui-documentation", 
+            "location": "/test-result-analysis/#descriptive-summary-of-data", 
             "text": "", 
-            "title": "Welcome to the Kitsui documentation"
+            "title": "Descriptive summary of data"
         }, 
         {
-            "location": "/testing-and-results/#getting-started", 
-            "text": "Installing Kitsui CMS   Installing  Removing  Updating     Getting your website Live with Cloud Front    Users    Roles    Blogs    Pages    Site Settings", 
-            "title": "Getting Started"
+            "location": "/test-result-analysis/#figure-1", 
+            "text": "", 
+            "title": "figure 1"
+        }, 
+        {
+            "location": "/test-result-analysis/#box-plot-of-reverse-contrasts-and-their-data-spread-for-timeduration", 
+            "text": "", 
+            "title": "Box-plot of reverse contrasts and their data spread for time/duration"
+        }, 
+        {
+            "location": "/test-result-analysis/#figure-2", 
+            "text": "", 
+            "title": "figure 2"
+        }, 
+        {
+            "location": "/test-result-analysis/#histogram-to-show-entire-dataset-distribution-for-timeduration", 
+            "text": "", 
+            "title": "Histogram to show entire dataset distribution for time/duration"
+        }, 
+        {
+            "location": "/test-result-analysis/#figure-3", 
+            "text": "", 
+            "title": "figure 3."
+        }, 
+        {
+            "location": "/test-result-analysis/#stage-1-summary", 
+            "text": "A first look at the data immediately tells us that there is some \ndifference in the spread for scanning times between Black text on \nwhite background (B/W)  and \u201cWhite text on black background\u201d (W/B). \nIn figure 1 and 2 we can see that on averages people did better with \nB/W but whether this is a statistically significant and not random \nrequires further testing. \nThe type of test required for the hypothesis \u201cIs there a significant \ndifference in scan-reading time between articles with B/W and W/B \ncontrast?\u201d is a One-way ANOVA or single factor ANOVA test. However \naccording to SPSS ANOVA guidelines  there is an assumption that\ndata needs to be approximately normally distributed. Looking at \nfigure 3 we can see that the entire dataset is positively skewed \nwhich therefore requires us to conduct a test of normality \n(covered in the next section) to make sure it is normally \ndistributed enough for an ANOVA test. Another assumption for an \nANOVA test is that there are no outliers in the data. According \nto figure 2, there are a few outliers on both datasets. The last \nassumption is the variances of both B/W and W/B being homogenous.", 
+            "title": "Stage 1 Summary"
+        }, 
+        {
+            "location": "/test-result-analysis/#data-normality-testing", 
+            "text": "", 
+            "title": "Data normality testing"
+        }, 
+        {
+            "location": "/test-result-analysis/#figure-4", 
+            "text": "", 
+            "title": "figure 4."
+        }, 
+        {
+            "location": "/test-result-analysis/#a-lilliefors-significance-correction", 
+            "text": "", 
+            "title": "a. Lilliefors Significance Correction"
+        }, 
+        {
+            "location": "/test-result-analysis/#figure-5", 
+            "text": "", 
+            "title": "figure 5."
+        }, 
+        {
+            "location": "/test-result-analysis/#figure-6", 
+            "text": "", 
+            "title": "figure 6."
+        }, 
+        {
+            "location": "/test-result-analysis/#stage-2-summary-of-normality-testing", 
+            "text": "According to figure 4 results, the data set is not normally \ndistributed. The sig value is quite a bit under 0.05 which \ntells us to reject the hypothesis that the data is normally \ndistributed. This is further shown by the normal Q-Q plots for \nthe reverse contrasts as the plots are quite a distance from the \nregression lines which indicates the data is not normal. This \nmeans that we cannot conduct an ANOVA test without transforming \nthe data to be normalized in which we will discuss in the next \nsection.", 
+            "title": "Stage 2 - Summary of normality testing"
+        }, 
+        {
+            "location": "/test-result-analysis/#data-transformation", 
+            "text": "We decided that normalizing the entire time variable would fix both \nthe skewness value in the data set as well as the kurtosis value \n(outliers). Using the rank cases facility within SPSS with the \n\u2018Fractional Rank\u2019 option ticked created a new variable which made \nthe highest time/duration at 1.0 and then the rest of the \ntimes/duration ranked. \nThen using this ranked time variable and the idf.normal \nfunction() within \u2018Compute variables\u2019 in \u2018Transform\u2019 drop \ndown to then generate a normalized time variable. Some \ndescriptive statistics for the new normalized data set is \nshown in the next section.", 
+            "title": "Data transformation"
+        }, 
+        {
+            "location": "/test-result-analysis/#descriptive-statistics-of-transformed-data", 
+            "text": "", 
+            "title": "Descriptive statistics of transformed data"
+        }, 
+        {
+            "location": "/test-result-analysis/#figure-7", 
+            "text": "", 
+            "title": "figure 7."
+        }, 
+        {
+            "location": "/test-result-analysis/#figure-8", 
+            "text": "", 
+            "title": "figure 8."
+        }, 
+        {
+            "location": "/test-result-analysis/#data-distribution", 
+            "text": "", 
+            "title": "Data distribution"
+        }, 
+        {
+            "location": "/test-result-analysis/#figure-9", 
+            "text": "", 
+            "title": "figure 9."
+        }, 
+        {
+            "location": "/test-result-analysis/#data-normality-testing_1", 
+            "text": "", 
+            "title": "Data normality testing"
+        }, 
+        {
+            "location": "/test-result-analysis/#figure-10", 
+            "text": "", 
+            "title": "figure 10."
+        }, 
+        {
+            "location": "/test-result-analysis/#figure-11", 
+            "text": "", 
+            "title": "figure 11."
+        }, 
+        {
+            "location": "/test-result-analysis/#levenes-test-of-homogeneity", 
+            "text": "", 
+            "title": "Levenes test of Homogeneity"
+        }, 
+        {
+            "location": "/test-result-analysis/#figure-12", 
+            "text": "", 
+            "title": "figure 12."
+        }, 
+        {
+            "location": "/test-result-analysis/#figure-13", 
+            "text": "", 
+            "title": "figure 13."
+        }, 
+        {
+            "location": "/test-result-analysis/#stage-3-normalizing-the-data-set", 
+            "text": "As you can see normalizing the data set had the desired effect. According \nto figure 7, the skewness and kurtosis values has been reduced considerably.\nThe outliers issue in the data set have been removed shown in figure 8 \nand figure 9 shows the data in a histogram in which the data set appears \nnormally distributed.\nTo confirm this further we conducted a normality test (figure 10, 11 and 13)\n on the normalized variable which shows both B/W and W/B Sig values are way\n over 0.05 which means we can accept the hypothesis that the data set is \n normally distributed. Figures 11 and 13 show that the data is quite close \n to the regression line on the Q-Q plot for both contrast\u2019s which indicates \n the data is normal.\nAnother requirement for ANOVA is variance homogeneity of which we undertook \na Levene test with the data set (figure 12). The test shows that the variances \nbetween both contrasts are indeed homogeneous with a Sig value way over .005. \nThe data is now ready for a one-way ANOVA test which we will compare the means \nfor both B/W and W/B to see whether they are statistically significant.", 
+            "title": "Stage 3 - Normalizing the data set"
+        }, 
+        {
+            "location": "/test-result-analysis/#one-way-anova-test-single-factor-anova", 
+            "text": "", 
+            "title": "One-way ANOVA Test (Single-factor ANOVA"
+        }, 
+        {
+            "location": "/test-result-analysis/#figure-14", 
+            "text": "", 
+            "title": "figure 14."
+        }, 
+        {
+            "location": "/test-result-analysis/#figure-16", 
+            "text": "", 
+            "title": "figure 16."
+        }, 
+        {
+            "location": "/test-result-analysis/#stage-4-discussion-of-one-way-anova-results", 
+            "text": "At first glance we can see the Sig value (p-value) for the One-way ANOVA test \n(figure 14) is below 0.05 which means we can reject the null hypothesis that \nthe differences in the means is not statistically significant. \nIn our study there appears to be a statistically significant difference in \nscan-reading performance between B/W and W/B articles. Further feedback from \nthe students we were sampling found the black and white articles easier to \nsearch through besides Sonic who stated he developed software in IDE with dark \nbackgrounds.\nThis, however does not disprove previous findings in research we used to test \nthis hypothesis. For one our study did not take into account the line at which \nthe target phrase in the articles is situated. A little bit of extra \nexplorative analysis at the data (figure 16)  shows that scan-reading \nperformance lines up almost perfectly with the B/W - and there being decreases \nin W/B. As a result of the random placement of target phrase - the W/B articles \nhad the target phrase situated mostly between 20 - 45. The one discrepancy is \narticle 7 which on average took a lot longer for students to search through \neven though the target phrase was on line 10. The phrase, however, was on \nthe end of line 10 meaning the rest of the phrase was on line 11 which means \nthe entire phrase was only in view by reading each line to line rather than \nscan-reading the document. I may also emphasize that the sample population was \nvery small (6 students). The sample may data may not therefore reflect reality.\nThis shows an error in our experiment design of looking at the one factor \n(contrast) that there could very well be the position factor having a \nconsiderable effect on scan reading speed. We did not take measures to i\nsolate the target phrase position variable and for a larger sample of \nstudents to take the test. Future experiment design around this area of \nresearch would need to take these details into account.", 
+            "title": "Stage 4 - Discussion of One-way ANOVA results"
         }
     ]
 }
