@@ -4,23 +4,15 @@
     
     <url>
      <loc>None/</loc>
-     <lastmod>2016-10-17</lastmod>
+     <lastmod>2016-10-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>None/colours/</loc>
-     <lastmod>2016-10-17</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>None/reflection/</loc>
-     <lastmod>2016-10-17</lastmod>
+     <loc>None/reflections/</loc>
+     <lastmod>2016-10-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -28,7 +20,7 @@
     
     <url>
      <loc>None/research/</loc>
-     <lastmod>2016-10-17</lastmod>
+     <lastmod>2016-10-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -36,7 +28,7 @@
     
     <url>
      <loc>None/test-method/</loc>
-     <lastmod>2016-10-17</lastmod>
+     <lastmod>2016-10-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -44,15 +36,7 @@
     
     <url>
      <loc>None/test-result-analysis/</loc>
-     <lastmod>2016-10-17</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>None/testing-and-results/</loc>
-     <lastmod>2016-10-17</lastmod>
+     <lastmod>2016-10-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     

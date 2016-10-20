@@ -60,13 +60,7 @@
                 
                 
                     <li >
-                        <a href="../colours/">Colours</a>
-                    </li>
-                
-                
-                
-                    <li >
-                        <a href="../reflection/">Reflection</a>
+                        <a href="../reflections/">Reflections</a>
                     </li>
                 
                 
@@ -88,12 +82,6 @@
                     </li>
                 
                 
-                
-                    <li >
-                        <a href="../testing-and-results/">Testing and results</a>
-                    </li>
-                
-                
                 </ul>
             
 
@@ -109,8 +97,8 @@
                             <i class="fa fa-arrow-left"></i> Previous
                         </a>
                     </li>
-                    <li >
-                        <a rel="prev" href="../testing-and-results/">
+                    <li class="disabled">
+                        <a rel="prev" >
                             Next <i class="fa fa-arrow-right"></i>
                         </a>
                     </li>
@@ -126,45 +114,155 @@
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
     
-        <li class="main active"><a href="#welcome-to-the-kitsui-documentation">Welcome to the Kitsui documentation</a></li>
+        <li class="main active"><a href="#test-result-and-analysis">Test Result and Analysis</a></li>
         
-            <li><a href="#getting-started">Getting Started</a></li>
+            <li><a href="#descriptive-summary-of-data">Descriptive summary of data</a></li>
+        
+            <li><a href="#box-plot-of-reverse-contrasts-and-their-data-spread-for-timeduration">Box-plot of reverse contrasts and their data spread for time/duration</a></li>
+        
+            <li><a href="#histogram-to-show-entire-dataset-distribution-for-timeduration">Histogram to show entire dataset distribution for time/duration</a></li>
+        
+            <li><a href="#stage-1-summary">Stage 1 Summary</a></li>
+        
+            <li><a href="#stage-2-summary-of-normality-testing">Stage 2 - Summary of normality testing</a></li>
+        
+            <li><a href="#stage-3-normalizing-the-data-set">Stage 3 - Normalizing the data set</a></li>
+        
+            <li><a href="#stage-4-discussion-of-one-way-anova-results">Stage 4 - Discussion of One-way ANOVA results</a></li>
         
     
     </ul>
 </div></div>
                 <div class="col-md-9" role="main">
 
-<h1 id="welcome-to-the-kitsui-documentation">Welcome to the Kitsui documentation</h1>
-<h2 id="getting-started">Getting Started</h2>
-<ul>
-<li>
-<p><a href="installation.md">Installing Kitsui CMS</a></p>
-<ul>
-<li><a href="installation.md">Installing</a></li>
-<li><a href="installation.md">Removing</a></li>
-<li><a href="installation.md">Updating</a></li>
-</ul>
-</li>
-<li>
-<p><a href="user.md">Getting your website Live with Cloud Front</a></p>
-</li>
-<li>
-<p><a href="user.md">Users</a></p>
-</li>
-<li>
-<p><a href="role.md">Roles</a></p>
-</li>
-<li>
-<p><a href="blog.md">Blogs</a></p>
-</li>
-<li>
-<p><a href="page.md">Pages</a></p>
-</li>
-<li>
-<p><a href="site-settings.md">Site Settings</a></p>
-</li>
-</ul></div>
+<h1 id="test-result-and-analysis">Test Result and Analysis</h1>
+<h3 id="descriptive-summary-of-data"><strong>Descriptive summary of data</strong></h3>
+<h4 id="figure-1">figure 1</h4>
+<p><img alt="image1" src="../images/AnovaTable.PNG" /></p>
+<h3 id="box-plot-of-reverse-contrasts-and-their-data-spread-for-timeduration"><strong>Box-plot of reverse contrasts and their data spread for time/duration</strong></h3>
+<h4 id="figure-2">figure 2</h4>
+<p><img alt="image1" src="../images/data_analysis_1.jpg" /></p>
+<h3 id="histogram-to-show-entire-dataset-distribution-for-timeduration"><strong>Histogram to show entire dataset distribution for time/duration</strong></h3>
+<h4 id="figure-3">figure 3.</h4>
+<p><img alt="image1" src="../images/data_analysis_2.jpg" />  </p>
+<h2 id="stage-1-summary"><strong>Stage 1 Summary</strong></h2>
+<p>A first look at the data immediately tells us that there is some 
+difference in the spread for scanning times between Black text on 
+white background (B/W)  and “White text on black background” (W/B). 
+In figure 1 and 2 we can see that on averages people did better with 
+B/W but whether this is a statistically significant and not random 
+requires further testing. 
+The type of test required for the hypothesis “Is there a significant 
+difference in scan-reading time between articles with B/W and W/B 
+contrast?” is a One-way ANOVA or single factor ANOVA test. However 
+according to SPSS ANOVA guidelines  there is an assumption that
+data needs to be approximately normally distributed. Looking at 
+figure 3 we can see that the entire dataset is positively skewed 
+which therefore requires us to conduct a test of normality 
+(covered in the next section) to make sure it is normally 
+distributed enough for an ANOVA test. Another assumption for an 
+ANOVA test is that there are no outliers in the data. According 
+to figure 2, there are a few outliers on both datasets. The last 
+assumption is the variances of both B/W and W/B being homogenous.</p>
+<h3 id="data-normality-testing"><strong>Data normality testing</strong></h3>
+<h4 id="figure-4">figure 4.</h4>
+<p><img alt="image1" src="../images/Normalization1.PNG" />  </p>
+<h3 id="a-lilliefors-significance-correction"><strong>a. Lilliefors Significance Correction</strong></h3>
+<h4 id="figure-5">figure 5.</h4>
+<p><img alt="image1" src="../images/data_analysis_3.jpg" /> </p>
+<h4 id="figure-6">figure 6.</h4>
+<p><img alt="image1" src="../images/data_analysis_4.jpg" />  </p>
+<h2 id="stage-2-summary-of-normality-testing"><strong>Stage 2 - Summary of normality testing</strong></h2>
+<p>According to figure 4 results, the data set is not normally 
+distributed. The sig value is quite a bit under 0.05 which 
+tells us to reject the hypothesis that the data is normally 
+distributed. This is further shown by the normal Q-Q plots for 
+the reverse contrasts as the plots are quite a distance from the 
+regression lines which indicates the data is not normal. This 
+means that we cannot conduct an ANOVA test without transforming 
+the data to be normalized in which we will discuss in the next 
+section.  </p>
+<h3 id="data-transformation"><strong>Data transformation</strong></h3>
+<p>We decided that normalizing the entire time variable would fix both 
+the skewness value in the data set as well as the kurtosis value 
+(outliers). Using the rank cases facility within SPSS with the 
+‘Fractional Rank’ option ticked created a new variable which made 
+the highest time/duration at 1.0 and then the rest of the 
+times/duration ranked. 
+Then using this ranked time variable and the idf.normal 
+function() within ‘Compute variables’ in ‘Transform’ drop 
+down to then generate a normalized time variable. Some 
+descriptive statistics for the new normalized data set is 
+shown in the next section.  </p>
+<h3 id="descriptive-statistics-of-transformed-data"><strong>Descriptive statistics of transformed data</strong></h3>
+<h4 id="figure-7">figure 7.</h4>
+<p><img alt="image1" src="../images/Descriptives.PNG" />  </p>
+<h4 id="figure-8">figure 8.</h4>
+<p><img alt="image1" src="../images/data_analysis_5.jpg" />  </p>
+<h3 id="data-distribution"><strong>Data distribution</strong></h3>
+<h4 id="figure-9">figure 9.</h4>
+<p><img alt="image1" src="../images/data_analysis_6.jpg" />  </p>
+<h3 id="data-normality-testing_1"><strong>Data normality testing</strong></h3>
+<h4 id="figure-10">figure 10.</h4>
+<p><img alt="image1" src="../images/TestsofNormality.PNG" />  </p>
+<h4 id="figure-11">figure 11.</h4>
+<p><img alt="image1" src="../images/data_analysis_7.jpg" />  </p>
+<h3 id="levenes-test-of-homogeneity"><strong>Levenes test of Homogeneity</strong></h3>
+<h4 id="figure-12">figure 12.</h4>
+<p><img alt="image1" src="../images/Homo.PNG" />  </p>
+<h4 id="figure-13">figure 13.</h4>
+<p><img alt="image1" src="../images/data_analysis_8.jpg" />  </p>
+<h2 id="stage-3-normalizing-the-data-set"><strong>Stage 3 - Normalizing the data set</strong></h2>
+<p>As you can see normalizing the data set had the desired effect. According 
+to figure 7, the skewness and kurtosis values has been reduced considerably.
+The outliers issue in the data set have been removed shown in figure 8 
+and figure 9 shows the data in a histogram in which the data set appears<br />
+normally distributed.
+To confirm this further we conducted a normality test (figure 10, 11 and 13)
+ on the normalized variable which shows both B/W and W/B Sig values are way
+ over 0.05 which means we can accept the hypothesis that the data set is 
+ normally distributed. Figures 11 and 13 show that the data is quite close 
+ to the regression line on the Q-Q plot for both contrast’s which indicates 
+ the data is normal.
+Another requirement for ANOVA is variance homogeneity of which we undertook 
+a Levene test with the data set (figure 12). The test shows that the variances 
+between both contrasts are indeed homogeneous with a Sig value way over .005. 
+The data is now ready for a one-way ANOVA test which we will compare the means 
+for both B/W and W/B to see whether they are statistically significant.  </p>
+<h3 id="one-way-anova-test-single-factor-anova"><strong>One-way ANOVA Test (Single-factor ANOVA</strong></h3>
+<h4 id="figure-14">figure 14.</h4>
+<p><img alt="image1" src="../images/ANOVATest.PNG" /><br />
+<img alt="image1" src="../images/data_analysis_9.jpg" />  </p>
+<h4 id="figure-16">figure 16.</h4>
+<p><img alt="image1" src="../images/number_of_lines_average_story_performance_combo.PNG" /> </p>
+<h2 id="stage-4-discussion-of-one-way-anova-results"><strong>Stage 4 - Discussion of One-way ANOVA results</strong></h2>
+<p>At first glance we can see the Sig value (p-value) for the One-way ANOVA test 
+(figure 14) is below 0.05 which means we can reject the null hypothesis that 
+the differences in the means is not statistically significant. 
+In our study there appears to be a statistically significant difference in 
+scan-reading performance between B/W and W/B articles. Further feedback from 
+the students we were sampling found the black and white articles easier to 
+search through besides Sonic who stated he developed software in IDE with dark 
+backgrounds.
+This, however does not disprove previous findings in research we used to test 
+this hypothesis. For one our study did not take into account the line at which 
+the target phrase in the articles is situated. A little bit of extra 
+explorative analysis at the data (figure 16)  shows that scan-reading 
+performance lines up almost perfectly with the B/W - and there being decreases 
+in W/B. As a result of the random placement of target phrase - the W/B articles 
+had the target phrase situated mostly between 20 - 45. The one discrepancy is 
+article 7 which on average took a lot longer for students to search through 
+even though the target phrase was on line 10. The phrase, however, was on 
+the end of line 10 meaning the rest of the phrase was on line 11 which means 
+the entire phrase was only in view by reading each line to line rather than 
+scan-reading the document. I may also emphasize that the sample population was 
+very small (6 students). The sample may data may not therefore reflect reality.
+This shows an error in our experiment design of looking at the one factor 
+(contrast) that there could very well be the position factor having a 
+considerable effect on scan reading speed. We did not take measures to i
+solate the target phrase position variable and for a larger sample of 
+students to take the test. Future experiment design around this area of 
+research would need to take these details into account.</p></div>
             
         </div>
 
