@@ -1,6 +1,32 @@
 # Reflections
     
 # Adam  
+###Research and planning
+Originally, our team came up with the idea to test the effects of blue light filtering on a smartphone, and contrast this with standard non blue light filtering to measure the changes in one's ability to use the phone with ease (assuming there was a reduction in usability). We did however have to cancel this idea, as well as several others, before coming up with the idea of black on white, white on black text skimming on a high pixel density monitor.
+
+The team performed well on identifying our final experiment idea, identified pitfalls that could arise from the experiment we would be performing, and methods in which we could mitigate/remove these pitfalls entirely.
+
+We found some exceptional ANOVA research on an experiment similar to ours, with our experiment being somewhat of a subset experiment compared to the found research.
+
+The team was always in constant communication, and always prompt to planning meetings as required. Communications with Robert Wellington about our planning/ideas were promptly produced by Brendan, and responses involved the entire team's input. Our project is fairly different to most of the other projects, where it is generally a hardware comparison between 2 devices, and as such, it took a fair bit of time to come up with a reasonable experiment to perform.
+
+I believe next time it would be advisable to come up with a solid idea as early as possible. Our final idea was only approved by Robert quite late into the project timeline, and as such we did not get into the experiment as early as we would have liked. Having now undertaken the study, I can now see how coming up with a good experiment does require careful analysis and consideration.
+###Experimental Design
+Miguel and I put together a sample of readings which would be used for our experiment, as well as produce the required data collection form and participant permutation samples. As a team, we produced said samples as carefully as possible to mitigate any possibility of maturation effect or  order biased results, thus why we introduced permutations for the order in which readings would take place, and “randomization” of phrases to be located within the given text samples.
+
+The experiment was designed to be performed by one student, under the control and management of all team members performing given tasks. Reflecting on the results we have now got, it is clear to see that the “randomization” of phrase positioning within given text was not quite as random as we had hoped. It was also interesting to see that the randomization may not have even been required. Interestingly enough, I didn't notice any participants looking at the same location as each story was read (maturation effect), but did observe that each participant read the story from top-down. Whether this was just coincidence or accident, I believe the placement of phrase and permutation of story orders at least helped to prevent participation learning of phrase location.
+###Execution
+The execution phase of our project went well. It took a fair bit of time to perform all tests (48 total tests), with a total testing time of 2 hours for 6 participants.
+
+Each member of the team performed their roles and responsibilities exceptionally and systematically, keeping all test cases under strict control and mitigating any potential external variables. Each participant performed their given tests in their given order with success, we did not have any participant errors or impacting implications on our resulting data.
+
+I would suggest that as mentioned earlier, our positioning of phrases to be found could be randomized further. It seemed that some participants simply skimmed over the phrases on accident, which may or may not have been based on the given foreground/background combination. Something noted by one of the participants is that they often use programs with dark colour combinations, and therefore that may have given them an advantage compared to other participants.
+###Data Analysis
+The data analysis phase was mostly performed by Brendan as he has a background with data analysis, and therefore he could perform an accurate analysis in the quickest time. I would like to have participated in the data analysis next time, however this time round there was time constraints with other University commitments.
+###Overall
+Overall, I believe our experiment was reasonably successful. We as a team put in the effort and hard work to produce an experiment we thought stood out from the rest. Considering this was our first ever “true” experiment and data analysis, we could probably produce a better testing data set (stories) next time with truly randomized placement of phrases.
+
+I believe the experiment as a whole could be refined and explored further. Our testing sample was fairly small, and our results were good, but I think expanding on the colours (foreground/background) under evaluation would shed greater light on the effects of text skimming.
 
 
 # Miguel  
