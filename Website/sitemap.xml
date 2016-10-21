@@ -11,6 +11,14 @@
 
     
     <url>
+     <loc>None/experiment-method/</loc>
+     <lastmod>2016-10-21</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
      <loc>None/reflections/</loc>
      <lastmod>2016-10-21</lastmod>
      <changefreq>daily</changefreq>
@@ -20,14 +28,6 @@
     
     <url>
      <loc>None/research/</loc>
-     <lastmod>2016-10-21</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>None/test-method/</loc>
      <lastmod>2016-10-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
