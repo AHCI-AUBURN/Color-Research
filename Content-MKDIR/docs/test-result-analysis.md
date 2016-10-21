@@ -99,6 +99,7 @@ Future experiment design around this area of research would need to take these d
 ##References used  
 One-way ANOVA in SPSS Statistics - Step-by-step procedure including testing of assumptions.. (2016). Statistics.laerd.com. Retrieved 20 October 2016, from https://statistics.laerd.com/spss-tutorials/one-way-anova-using-spss-statistics.php
 
-Testing for Normality using SPSS Statistics when you have only one independent variable.. (2016). Statistics.laerd.com. Retrieved 20 October 2016, from https://statistics.laerd.com/spss-tutorials/testing-for-normality-using-spss-statistics.php
+Testing for Normality using SPSS Statistics when you have only one independent variable.. (2016). Statistics.laerd.com. Retrieved 20 October 2016, from https://statistics.laerd.com/spss-tutorials/testing-for-normality-using-spss-statistics.php  
+
 A Two Step Transformation to Normality in SPSS. (2014). Youtube.
 https://www.youtube.com/watch?v=twwT6FgwlAo
