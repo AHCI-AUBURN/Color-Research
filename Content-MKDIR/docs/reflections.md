@@ -1,2 +1,9 @@
 # Reflections
     
+# Adam  
+
+
+# Miguel  
+
+
+# Brendan
