@@ -1,4 +1,5 @@
 site_name: Auburn Color Research
+use_directory_urls: false
 site_description: Auburn Colour Research Website
 site_dir: ../Website
 theme: mkdocs

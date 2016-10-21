@@ -3,7 +3,7 @@
 
     
     <url>
-     <loc>None/</loc>
+     <loc>None/index.html</loc>
      <lastmod>2016-10-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -11,7 +11,7 @@
 
     
     <url>
-     <loc>None/experiment-method/</loc>
+     <loc>None/experiment-method/index.html</loc>
      <lastmod>2016-10-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -19,7 +19,7 @@
 
     
     <url>
-     <loc>None/reflections/</loc>
+     <loc>None/reflections/index.html</loc>
      <lastmod>2016-10-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -27,7 +27,7 @@
 
     
     <url>
-     <loc>None/research/</loc>
+     <loc>None/research/index.html</loc>
      <lastmod>2016-10-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -35,7 +35,7 @@
 
     
     <url>
-     <loc>None/test-result-analysis/</loc>
+     <loc>None/test-result-analysis/index.html</loc>
      <lastmod>2016-10-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
