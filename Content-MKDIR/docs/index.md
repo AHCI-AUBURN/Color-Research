@@ -1,3 +1,1 @@
 #Contrast Readability Research
-    
-## Introduction

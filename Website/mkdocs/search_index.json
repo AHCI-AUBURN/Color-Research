@@ -2,18 +2,13 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Contrast Readability Research\n\n\nIntroduction", 
+            "text": "Contrast Readability Research", 
             "title": "Home"
         }, 
         {
             "location": "/#contrast-readability-research", 
             "text": "", 
             "title": "Contrast Readability Research"
-        }, 
-        {
-            "location": "/#introduction", 
-            "text": "", 
-            "title": "Introduction"
         }, 
         {
             "location": "/experiment-method/", 
